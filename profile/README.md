@@ -30,7 +30,7 @@
 - Course work(```C++```, ```CMake```, ```OpenGL```)
 
 ### C++ programming course
-- Solutions and implementations(```C++```, ```CMake```)
+- [Solutions and implementations](https://github.com/IMNJL/Cpp_programming_course-)(```C++```, ```CMake```)
 
 ### Theory of Information
 - Repository with famous coding algorithms(```python```, ```cryptography```)

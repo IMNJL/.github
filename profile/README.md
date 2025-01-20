@@ -8,7 +8,7 @@
 (__1st semester__)
 - [Hangman](https://github.com/IMNJL/Hangman)(```Java```, ```Maven```)
 - [Maze game](https://github.com/IMNJL/MazeGame)(```Java```, ```dp algorithms```, ```Maven```)
-- [Logs Analyzer](https://github.com/IMNJL/LoggerAnalyzer)(```Java```, ```Http```, ```Maven```)
+- [Logs Analyzer](https://github.com/IMNJL/LoggerAnalyzer)(```Java```, ```Http```, ```Maven```, ```adoc```, ```markdown```)
 - [Fractal Flame](https://github.com/IMNJL/Fractal-Flames/tree/master)(```Java```, ```Maven```)
 - [Performance measurement](https://github.com/IMNJL/-Performance-measurement/tree/main)(```Java```, ```Reflection```, ```Maven```)
 

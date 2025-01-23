@@ -26,7 +26,7 @@
 
 ---
 ### Computer Graphics
-- Laboritory works(```C```, ```CMake```, ```OpenGL```)
+- [Laboritory works](https://github.com/IMNJL/Computer_Graphics)(```C```, ```CMake```, ```OpenGL```)
 - Course work(```C++```, ```CMake```, ```OpenGL```)
 
 ### C++ programming course

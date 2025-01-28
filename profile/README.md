@@ -13,6 +13,8 @@
 - [Performance measurement](https://github.com/IMNJL/-Performance-measurement/tree/main)(```Java```, ```Reflection```, ```Maven```)
 
 (__2nd semester__) - to be continued...
+- Big project using ```Http```, ```OpenAPI```, ```RESTful```, ```websocket```, ```HATEOS```, ```SQL```, ```Apache Kafka```, ```CI/CD```
+
 
 ### System Administration Basics course
   - [Linux and docker practices](https://github.com/IMNJL/Tbank_OSA)(```Ubuntu```, ```docker```, ```docker-compose```)

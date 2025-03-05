@@ -13,7 +13,7 @@
 - [Performance measurement](https://github.com/IMNJL/-Performance-measurement/tree/main)(```Java```, ```Reflection```, ```Maven```)
 
 (__2nd semester__) - to be continued...
-- Big project using ```Http```, ```OpenAPI```, ```RESTful```, ```websocket```, ```HATEOS```, ```SQL```, ```Apache Kafka```, ```CI/CD```
+- LinksTracker - ```TelegramAPI```, ```Http```, ```OpenAPI```, ```RESTful```, ```websocket```, ```HATEOS```, ```SQL```, ```Apache Kafka```, ```CI/CD```
 
 
 ### System Administration Basics course

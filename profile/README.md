@@ -34,6 +34,9 @@
 ### C++ programming course
 - [Solutions and implementations](https://github.com/IMNJL/Cpp_programming_course-)(```C++```, ```CMake```)
 
+### Intellectual_systems
+- [Laboritory works](https://github.com/IMNJL/Intellectual_systems)(```python```, ```numpy```, ```cv2```)
+
 ### Theory of Information
 - Repository with famous coding algorithms(```python```, ```cryptography```)
 

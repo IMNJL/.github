@@ -27,6 +27,14 @@
 - [Algorithms for autonomous robot movement](https://github.com/IMNJL/UrFU_RoboticsCamp_YNDX)(```C```, ```python```, ```raspberry-pi```, ```caos```)
 
 ---
+## Course works
+
+
+### Practice of development of computing systems
+- [JPEG_compression](https://github.com/IMNJL/JPEG_compression)
+TODO...
+
+---
 ### Computer Graphics
 - [Laboritory works](https://github.com/IMNJL/Computer_Graphics)(```C```, ```CMake```, ```OpenGL```)
 - [Course work](https://github.com/IMNJL/ComputerGraphic_cw)(```C++```, ```CMake```, ```OpenGL```)

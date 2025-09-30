@@ -13,7 +13,10 @@
 - [Performance measurement](https://github.com/IMNJL/-Performance-measurement/tree/main)(```Java```, ```Reflection```, ```Maven```)
 
 (__2nd semester__) - to be continued...
-- LinksTracker - ```TelegramAPI```, ```Http```, ```OpenAPI```, ```RESTful```, ```websocket```, ```HATEOS```, ```SQL```, ```Apache Kafka```, ```CI/CD```
+- [LinksTracker]()(```TelegramAPI```, ```Http```, ```OpenAPI```, ```RESTful```, ```websocket```, ```HATEOS```, ```SQL```, ```Apache Kafka```, ```CI/CD```)
+
+(__3rd semester__) - SRE
+- SRE - ```k8s```, ```docker```, ```Ingress```, ```CI/CD pipeline```, ```yaml```
 
 
 ### System Administration Basics course

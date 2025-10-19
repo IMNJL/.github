@@ -18,6 +18,10 @@
 (__3rd semester__) - SRE
 - SRE - ```k8s```, ```docker```, ```Ingress```, ```CI/CD pipeline```, ```yaml```
 
+### [Computer networks course]() - github attributes
+
+### [Databases course]()
+
 
 ### System Administration Basics course
   - [Linux and docker practices](https://github.com/IMNJL/Tbank_OSA)(```Ubuntu```, ```docker```, ```docker-compose```)

@@ -1,62 +1,120 @@
-<h1 align="center">Hi!👋 My name is Kuranov Grigorii</h1>
-<h3 align="center">Backend Developer / DevOps Engineer from Saint-Peterburg</h3>
-
+<h1 align="center">🎓 Educational Projects</h1>
 <p align="center">
-  <a href="[Ссылка на LinkedIn]">LinkedIn</a> •
-  <a href="tg://Gr1shania">tg: @Gr1shania</a> •
-  <a href="mailto:[kgrigor2019@yandex.ru]">Email</a>
+  Collection of projects from ITMO University, Saint-Petersburg Aerospace University, Beijing Institute of Technology(BIT, China), and educational programs
 </p>
 
 ---
 
-## 🛠 Мой стек
+## 🏦 T-Bank Backend Academy
 
-**Backend:** `Java`, `Spring Boot`, `Python`, `FastAPI`
-**Databases:** `PostgreSQL`, `H2`
-**DevOps & Infrastructure:** `Docker`, `Docker Compose`, `Kubernetes`, `Terraform`, `CI/CD`
-**Tools & Other:** `Maven`, `Git`, `Linux`, `Bash`, `OpenAPI`
+### Semester 1
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **[Hangman](https://github.com/IMNJL/Hangman)** | Console implementation of word game | `Java` `Maven` |
+| **[Maze Game](https://github.com/IMNJL/MazeGame)** | Maze generation and pathfinding | `Java` `Algorithms` `Maven` |
+| **[Logs Analyzer](https://github.com/IMNJL/LoggerAnalyzer)** | HTTP log analysis with reporting | `Java` `HTTP` `Maven` `Asciidoc`, `JSON` |
+| **[Fractal Flame](https://github.com/IMNJL/Fractal-Flames)** | Fractal image generator | `Java` `Maven` `java.awt.Color` |
+| **[Performance measurement](https://github.com/IMNJL/-Performance-measurement)** | Code benchmarking system | `Java` `Reflection` `Maven` |
 
----
+### Semester 2
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **[LinksTracker]()** | URL monitoring with notifications | `Telegram API` `HTTP` `OpenAPI` `REST` `WebSocket` `SQL` `Kafka` `CI/CD` |
 
-## 🚀 Ключевые проекты
+### Semester 3 (SRE)
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **SRE Projects** | Infrastructure and deployment practices | `Kubernetes` `Docker` `Ingress` `CI/CD` `YAML` |
 
-Здесь я собрал свои наиболее значимые и завершенные работы, которые лучше всего отражают мои навыки.
-
-### 🔗 LinksTracker (В разработке)
-*Мониторинг состояния веб-сайтов с Telegram-уведомлениями и веб-интерфейсом.*
-- **Стек:** `Java`, `Spring Boot`, `Telegram Bot API`, `PostgreSQL`, `REST`, `WebSocket`, `Kafka`, `Docker`
-- **Что делает:** Система периодически проверяет доступность URL-адресов, хранит историю откликов и отправляет уведомления в Telegram при изменении статуса.
-- **Ссылка:** [github.com/yourname/links-tracker](https://github.com/IMNJL/LinksTracker) *(СДЕЛАЙ РАБОЧУЮ ССЫЛКУ!)*
-
-### 🧩 Fractal Flames Generator
-*Высокопроизводительный генератор фрактальных изображений на Java.*
-- **Стек:** `Java`, `Maven`, `Многопоточность`, `Алгоритмы визуализации`
-- **Что делает:** Консольное приложение, преобразующее математические описания фракталов в PNG-изображения с поддержкой различных цветовых схем.
-- **Ссылка:** [github.com/yourname/fractal-flames](https://github.com/IMNJL/Fractal-Flames)
-
-### ☁️ Helm Chart with Vault (ITMO DevOps Camp)
-*Развертывание безопасного приложения в Kubernetes с внешним хранилищем секретов.*
-- **Стек:** `Kubernetes`, `Helm`, `Vault`, `Terraform`, `Docker`
-- **Что делает:** Автоматизированная инфраструктура для безопасного деплоя приложений в k8s. Vault используется для управления секретами, Terraform — для провижининга.
-- **Ссылка:** [github.com/yourname/helm-vault-setup](https://github.com/IMNJL/ITMO_DevOpsCamp_YNDX)
+### Additional T-Bank Courses
+| Course | Description | Technologies |
+|--------|-------------|--------------|
+| **Computer Networks** | Network programming and protocols | `GitHub Attributes` |
+| **Databases** | Database design and SQL | `SQL` `Database Theory` |
+| **System Administration** | Linux and container management | `Ubuntu` `Docker` `Docker-compose` |
 
 ---
 
-## 📚 Другие проекты
+## 🏆 Yandex StudCamps
 
-### Бэкенд & Алгоритмы
-- **[[Hangman]](https://github.com/IMNJL/Hangman)** – Классическая игра "Виселица" с консольным интерфейсом. (`Java`, `Maven`)
-- **[[Maze Game]](https://github.com/IMNJL/MazeGame)** – Генерация и прохождение лабиринтов с использованием алгоритмов. (`Java`, `Graph Algorithms`)
+### ITMO - DevOps and Computer Science
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **[Helm-chart with vault](https://github.com/IMNJL/ITMO_DevOpsCamp_YNDX)** | Secure Kubernetes deployment | `Linux` `Docker` `K8s` `Vault` `Terraform` |
+| **[StudCamp Subjects](https://github.com/IMNJL/ITMO_StudCampSubjects)** | OS and networks practical work | `Bash` `Linux` `VirtualBox` |
 
-### Системное программирование & DevOps
-- **[[Linux & Docker Practices]](https://github.com/IMNJL/Tbank_OSA)** – Набор скриптов и docker-compose файлов для отработки администрирования. (`Bash`, `Docker`, `Ubuntu`)
-- **[[System Programming Labs]](https://github.com/IMNJL/System_programming)** – Изучение работы с процессами, сигналами и потоками в Linux. (`C`, `POSIX APIs`)
+### UrFU - Robotics and AI
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **[Autonomous robot algorithms](https://github.com/IMNJL/UrFU_RoboticsCamp_YNDX)** | Robot movement algorithms | `C` `Python` `Raspberry Pi` `CAOS` |
 
 ---
 
-## 📈 Статистика GitHub
+## 💻 University Course Projects
+
+### Computer Graphics
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **[Lab Works](https://github.com/IMNJL/Computer_Graphics)** | Computer graphics laboratories | `C` `CMake` `OpenGL` |
+| **[Course Work](https://github.com/IMNJL/ComputerGraphic_cw)** | Computer graphics course project | `C++` `CMake` `OpenGL` |
+
+### C++ Programming
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **[C++ Course](https://github.com/IMNJL/Cpp_programming_course-)** | Algorithms and implementations | `C++` `CMake` |
+
+### Intellectual Systems
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **[Lab Works](https://github.com/IMNJL/Intellectual_systems)** | AI and computer vision labs | `Python` `NumPy` `OpenCV` |
+
+### Theory of Information
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **Coding Algorithms** | Information theory implementations | `Python` `Cryptography` |
+
+### System Programming
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **[System Programming](https://github.com/IMNJL/System_programming)** | Low-level programming labs | `C` `signal.h` `sys/wait.h` `thread.h` |
+
+### Assembler (ARM64)
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **[XCode implementation](https://github.com/IMNJL/Assembler)** | ARM64 assembly programming | `Assembler` `C` |
+
+### Java Programming
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **Java Projects** | Enterprise Java development | `Java` `JSF` `JSP` `SpringBoot` |
+
+### Computing Systems Development
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **[JPEG Compression](https://github.com/IMNJL/JPEG_compression)** | Image compression implementation | `C++` `Shell` `CMake` `jpeglib.h` |
+
+---
+
+## 🐉 Beijing Institute of Technology (BIT)
+
+### Computer Science enrollment
+| Course/Project | Description | Technologies/Topics |
+|----------------|-------------|---------------------|
+| **Introduction to Big Data** | Fundamental concepts and ecosystems | `Hadoop` `MapReduce` `HDFS` `Big Data Fundamentals` |
+| **Big Data Analysis** | Data processing and analytics methods | `Spark` `Data Analytics` `Processing Pipelines` |
+| **Big Data Final Project** | Comprehensive data project with presentation | `Data Pipeline` `Analytics` `Visualization` |
+| **Data Warehouse & Data Mining** | Storage and pattern discovery | `ETL` `Data Warehousing` `Data Mining` `OLAP` |
+
+---
+
+## 🚀 Other Projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **[SUAI Roll Call](https://github.com/IMNJL/SUAI_Roll_Call)** | Attendance system for university | `Python` `PostgreSQL` |
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IMNJL&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMNJL&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <i>This portfolio represents my learning journey in software development and computer science</i>
 </p>

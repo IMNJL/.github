@@ -101,7 +101,7 @@
 | Course/Project | Description | Technologies/Topics |
 |----------------|-------------|---------------------|
 | **Introduction to Big Data** | Fundamental concepts and ecosystems | `Hadoop` `MapReduce` `HDFS` `Big Data Fundamentals` |
-| **Big Data Analysis** | Data processing and analytics methods | `Spark` `Data Analytics` `Processing Pipelines` |
+| **[Big Data Analysis](https://github.com/IMNJL/BigDataAnalysis/tree/main)** | Data processing and analytics methods | `Spark` `Data Analytics` `Processing Pipelines` |
 | **Big Data Final Project** | Comprehensive data project with presentation | `Data Pipeline` `Analytics` `Visualization` |
 | **Data Warehouse & Data Mining** | Storage and pattern discovery | `ETL` `Data Warehousing` `Data Mining` `OLAP` |
 
